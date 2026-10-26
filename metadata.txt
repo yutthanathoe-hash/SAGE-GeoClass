@@ -1,0 +1,12 @@
+[general]
+name=SAGE GeoClass V1
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+description=SAGE GeoClass V1: scientific raster classification, spatial validation, ML/DL model comparison and explainable AI with guided parameter descriptions.
+version=1.0.6
+author=Yutthana Thoenglom
+email=
+about=SAGE GeoClass V1 is a QGIS Processing plugin for geospatial classification, model comparison, explainable AI and scientific quality checks. Developed by Yutthana Thoenglom, Maejo University Phrae Campus. The original frozen scientific core and experimental baseline are retained unchanged for scientific traceability.
+category=Analysis
+hasProcessingProvider=yes
+experimental=True

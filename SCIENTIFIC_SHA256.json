@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "scientific_files_sha256": {
+    "sage_class_schema_v252.py": "a0daba5d5f35f59f04339185928d42066c55c598380b5ea4f49c49554a1faf86",
+    "sage_adaptive_stress_v25538.py": "6423034c80047e7fa71428856cbd8309a1647f57d7f08dfe896726ee258508a1",
+    "sage_xgboost_v255434.py": "839adce6573215e376c03898fd04197cea84f524903b5fcf83b7286f645da25a",
+    "sage_raster_equivalence_v25534.py": "1e78b206b4f32ce6dbcbce6cd88b4aa6b2adab15bf209b503a07764aefbd32f0",
+    "sage_shap_visualization_v255432.py": "0f3c2937d6d7f3b667b4328d4792a911935ec74cf2d01182404f16ff54a852f6",
+    "sage_scientific_guard_v256.py": "61f493c65150b8d6faa01987aa42f0554886695c004be901d92cb6c1ede13ba1",
+    "sage_controlled_benchmark_v25532.py": "2f8bb19f6928ed612aaa439aa19ef520bba3d775638ef740737edb846e9e9f84",
+    "LandUse_TF_Worker_V2_4_4_6.py": "99305b993c553f69668f50ebcf511172c86b32cb3783f212053b03d81c0b0591",
+    "sage_uncertainty_v255.py": "55b87a9421705ede32f40531812cd8982eefd458c61def96fc9196440112d7de",
+    "sage_feature_audit_v2541.py": "338cdcc0ae3b932f4221094e8aeb9b0c8457b6509f4c5dfb309e9d71b39cacb5",
+    "sage_full_raster_ab_v25533.py": "ceb3fdeb10f382a3a92e3c9825bc62d895e6c0937eecbc7340c61b2070676136",
+    "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sage_inference_memory_v2553.py": "9af184699daa167e37aa429e51d73f12830af023494c82d9a1c2348d15121b6c",
+    "SAGE_GeoClass_V2_5_5_4_3_5.py": "caae88e30f1ba3fa84b0c25135e76342ff354fb29f2ae9d122cbeb06c4d57467",
+    "sage_model_feature_v254.py": "fe5229a0ec4a53fa0b6e6c23630eba4d8fdbb95094691c3f2a2d15e80b3b3572",
+    "sage_xai_integrated_v25540.py": "79dbbb872eff15df76d2cb6880f279243b9a36cc891187613a4c60f704233afe",
+    "sage_xai_universal_v25542.py": "fa922d733099bf4de411428594f7343f6c7037ed518fd188a7fb52a818657b23",
+    "sage_fold_optimizer_v2532.py": "a5e69d5c718f3d75f60997c5508b6dc23dd22e431a2aa0fc7eed3fded3d33ae1",
+    "sage_adaptive_safety_v25537.py": "d2b4162fdc49aa298ab2e57397dec9a70c28a34c201dee5192bc25c550ce9c48",
+    "sage_inference_memory_v25536.py": "c2ac50c86d9be170a96416e317c2314356b6b5111681c96730f79ae393dc7d1b",
+    "sage_spatial_cv_v253.py": "3b075908673d5d1a0316c7dac53ef768518ced1c6bf9a6ee155b6b52f01c1f9e",
+    "sage_feature_registry_v251.py": "7f32e0bee502185f4e6756fc8dd3d09928d1a206f973fa784be4d7564b3517f8",
+    "sage_raster_regression_v25538.py": "c8b55b3ac4335a0e26941145b169158f1ae8d3564c492741174c99bc74938836",
+    "SAGE_GeoClass_V2_5_5_4_3_6.py": "6fe3905ee2679e6df08cb45cffad5cbf5ed4510139f808d144b86abb648266a0",
+    "sage_xai_dl_v25543.py": "a56c0f684206a57e20d289d913db76da261695d97ec67a077613c5dcb71607e2"
+  }
+}
