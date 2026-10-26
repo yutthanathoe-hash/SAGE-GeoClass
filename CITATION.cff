@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+message: "If you use SAGE-GeoClass in research, please cite this software."
+type: software
+title: "SAGE-GeoClass: A QGIS Framework for Geospatial Classification"
+version: "1.0.6"
+authors:
+  - family-names: Thoenglom
+    given-names: Yutthana
+    orcid: "https://orcid.org/0009-0004-5161-5547"
+repository-code: "https://github.com/yutthanathoe-hash/SAGE-GeoClass"
+keywords:
+  - QGIS
+  - Remote Sensing
+  - Land Use Classification
+  - Forest Classification
+  - Agricultural Classification
+  - Machine Learning
+  - Explainable AI
+license: MIT
